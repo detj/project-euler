@@ -1,6 +1,6 @@
-# Project Euler
+## Project Euler
 
-Contains solutions to attemted questions. I solved the missing questions way back in Python, will add it here as well
+Contains solutions to attempted questions. I solved the missing questions way back in Python, will add it here as well
 
-# Reference
+## Reference
 [Project Euler](http://projecteuler.net/)
