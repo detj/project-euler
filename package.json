@@ -1,0 +1,25 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "Contains solutions to attempted questions. I solved the missing questions way back in Python, will add it here as well",
+  "dependencies": {
+    "factor": "^0.0.1",
+    "get-divisors": "^1.0.0",
+    "single-line-log": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detj/project-euler.git"
+  },
+  "keywords": [],
+  "author": "Debjeet Biswas <debjeet12@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/detj/project-euler/issues"
+  },
+  "homepage": "https://github.com/detj/project-euler#readme"
+}
