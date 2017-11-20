@@ -5,7 +5,8 @@
   "dependencies": {
     "factor": "^0.0.1",
     "get-divisors": "^1.0.0",
-    "single-line-log": "^1.1.2"
+    "single-line-log": "^1.1.2",
+    "uniq": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
